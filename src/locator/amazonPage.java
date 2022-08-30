@@ -8,6 +8,7 @@ public class amazonPage {
     // html for search button
 
     // html for deals page
-    
-    // changing team members line 
+
+    // changing team members kine
+    // html for cart page
 }
